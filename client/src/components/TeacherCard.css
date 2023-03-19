@@ -1,0 +1,17 @@
+.teachercard {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: whitesmoke;
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+    padding: 20px 10px 0 10px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px 5px rgb(210, 210, 210);
+}
+
+.teachercard > a {
+    text-decoration: none;
+    color: black;
+}

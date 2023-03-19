@@ -1,0 +1,31 @@
+.homepage {
+    display: grid;
+    grid-template-columns: 1fr 4fr;
+    min-height: 90vh;
+}
+
+.sidebar {
+    background-color: #a9b9da;
+}
+
+/* .navigation {
+    background-color: rgb(24, 24, 63);
+    min-height: 100vh;
+    color: whitesmoke;
+
+
+} */
+
+/* .navbar_branding {
+    display: flex;
+    align-items: center;
+    background-color: rgb(210, 210, 210);
+    color: #2B3467;
+    padding: 10px;
+} */
+
+.navbar_logo {
+    width: 100px;
+
+}
+
